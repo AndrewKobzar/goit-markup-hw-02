@@ -212,7 +212,6 @@
   font-weight: 900;
   font-size: 44px;
   line-height: 60px;
-  /* or 136% */
   text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -476,7 +475,6 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 19px;
-  /* identical to box height */
   text-align: center;
   letter-spacing: 0.03em;
 
@@ -495,7 +493,6 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 19px;
-  /* identical to box height */
   text-align: center;
   letter-spacing: 0.03em;
 
@@ -527,7 +524,6 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 19px;
-  /* identical to box height */
   text-align: center;
   letter-spacing: 0.03em;
 
@@ -546,7 +542,6 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 19px;
-  /* identical to box height */
   text-align: center;
   letter-spacing: 0.03em;
 
@@ -578,7 +573,6 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 19px;
-  /* identical to box height */
   text-align: center;
   letter-spacing: 0.03em;
 
@@ -597,7 +591,6 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 19px;
-  /* identical to box height */
   text-align: center;
   letter-spacing: 0.03em;
 
@@ -629,7 +622,6 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 19px;
-  /* identical to box height */
   text-align: center;
   letter-spacing: 0.03em;
 
@@ -648,7 +640,6 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 19px;
-  /* identical to box height */
   text-align: center;
   letter-spacing: 0.03em;
 
@@ -669,7 +660,6 @@
   font-weight: 700;
   font-size: 26px;
   line-height: 31px;
-  /* identical to box height */
   letter-spacing: 0.03em;
 
   color: #2196f3;
@@ -721,7 +711,6 @@
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  /* or 171% */
   letter-spacing: 0.03em;
 
   color: rgba(255, 255, 255, 0.6);
@@ -897,7 +886,6 @@
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
-  /* identical to box height, or 200% */
   letter-spacing: 0.06em;
 
   color: #212121;
@@ -915,7 +903,6 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
-  /* identical to box height, or 188% */
   letter-spacing: 0.03em;
 
   color: #757575;
@@ -943,7 +930,6 @@
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
-  /* identical to box height, or 200% */
   letter-spacing: 0.06em;
 
   color: #212121;
@@ -960,7 +946,6 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
-  /* identical to box height, or 188% */
   letter-spacing: 0.03em;
   color: #757575;
 }
@@ -987,7 +972,6 @@
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
-  /* identical to box height, or 200% */
   letter-spacing: 0.06em;
 
   color: #212121;
@@ -1070,7 +1054,6 @@
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
-  /* identical to box height, or 200% */
   letter-spacing: 0.06em;
 
   color: #212121;
@@ -1114,7 +1097,6 @@
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
-  /* identical to box height, or 200% */
   letter-spacing: 0.06em;
 
   color: #212121;
@@ -1132,7 +1114,6 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
-  /* identical to box height, or 188% */
   letter-spacing: 0.03em;
 
   color: #757575;
@@ -1159,7 +1140,6 @@
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
-  /* identical to box height, or 200% */
   letter-spacing: 0.06em;
 
   color: #212121;
@@ -1176,7 +1156,6 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
-  /* identical to box height, or 188% */
   letter-spacing: 0.03em;
 
   color: #757575;
@@ -1203,7 +1182,6 @@
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
-  /* identical to box height, or 200% */
   letter-spacing: 0.06em;
 
   color: #212121;
@@ -1220,7 +1198,6 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
-  /* identical to box height, or 188% */
   letter-spacing: 0.03em;
 
   color: #757575;
@@ -1247,7 +1224,6 @@
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
-  /* identical to box height, or 200% */
   letter-spacing: 0.06em;
 
   color: #212121;
@@ -1265,7 +1241,6 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
-  /* identical to box height, or 188% */
   letter-spacing: 0.03em;
 
   color: #757575;
