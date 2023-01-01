@@ -383,7 +383,7 @@
 /* Чим ми займаємося*/
 .work-titel {
   position: absolute;
-  width: 366px;
+  width: 400px;
   height: 42px;
   left: 617px;
   top: 966px;
@@ -435,22 +435,19 @@
 /* Ігор Дем'яненко */
 
 .section-title {
-  position: absolute;
-  width: 264px;
-  height: 42px;
-  left: 668px;
-  top: 1540px;
-
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 42px;
-  text-align: center;
-  letter-spacing: 0.03em;
-
-  color: #212121;
-}
+    position: absolute;
+    width: 300px;
+    height: 42px;
+    left: 668px;
+    top: 1540px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;}
 
 .product-designer .a {
   position: absolute;
@@ -465,7 +462,7 @@
 
 .product-designer .b {
   position: absolute;
-  width: 129px;
+  width: 150px;
   height: 19px;
   left: 286px;
   top: 1922px;
@@ -563,7 +560,7 @@
 
 .marketing .b {
   position: absolute;
-  width: 130px;
+  width: 150px;
   height: 19px;
   left: 885px;
   top: 1922px;
@@ -612,7 +609,7 @@
 
 .ui-designer .b {
   position: absolute;
-  width: 145px;
+  width: 150px;
   height: 19px;
   left: 1178px;
   top: 1922px;
