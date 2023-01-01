@@ -1,0 +1,1272 @@
+/* навигация */
+.header {
+  position: absolute;
+  width: 1600px;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+
+  background: #ffffff;
+}
+.logo {
+  color: #2196f3;
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
+
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+}
+
+.site-nav .linka {
+  color: #212121;
+  position: absolute;
+  width: 45px;
+  height: 16px;
+  left: 453px;
+  top: 32px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+
+.site-nav .linka:hover,
+.site-nav .linka:focus {
+  color: #2196f3;
+  position: absolute;
+  width: 45px;
+  height: 16px;
+  left: 453px;
+  top: 32px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+
+.site-nav .linkb {
+  color: #212121;
+  position: absolute;
+  width: 72px;
+  height: 16px;
+  left: 548px;
+  top: 32px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+
+.site-nav .linkb:hover,
+.site-nav .linkb:focus {
+  color: #2196f3;
+  position: absolute;
+  width: 72px;
+  height: 16px;
+  left: 548px;
+  top: 32px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+
+.site-nav .linkc {
+  color: #212121;
+  position: absolute;
+  width: 64px;
+  height: 16px;
+  left: 670px;
+  top: 32px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+
+.site-nav .linkc:hover,
+.site-nav .linkc:focus {
+  color: #2196f3;
+  position: absolute;
+  width: 64px;
+  height: 16px;
+  left: 670px;
+  top: 32px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+/* авторизация */
+
+.auth-nav .linkd {
+  color: #757575;
+  position: absolute;
+  width: 135px;
+  height: 16px;
+  left: 1078px;
+  top: 32px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+
+.auth-nav .linkd:hover,
+.auth-nav .linkd:focus {
+  color: #2196f3;
+  position: absolute;
+  width: 135px;
+  height: 16px;
+  left: 1078px;
+  top: 32px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+
+.auth-nav .linke {
+  color: #757575;
+  position: absolute;
+  width: 122px;
+  height: 16px;
+  left: 1263px;
+  top: 32px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+
+.auth-nav .linke:hover,
+.auth-nav .linke:focus {
+  color: #2196f3;
+  position: absolute;
+  width: 122px;
+  height: 16px;
+  left: 1263px;
+  top: 32px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+
+/* первая секция */
+.page {
+  background: #2f303a;
+  width: 1600px;
+  height: 600px;
+  left: 0px;
+  top: 80px;
+}
+
+.page-titel {
+  color: #ffffff;
+  position: absolute;
+  width: 696px;
+  height: 120px;
+  left: 452px;
+  top: 280px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+  /* or 136% */
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.page-button {
+  color: #212121;
+  background-color: F5F4FA;
+  position: absolute;
+  width: 216px;
+  height: 50px;
+  left: 692px;
+  top: 430px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+}
+
+.page-button:hover {
+  color: #ffffff;
+  background-color: #2196f3;
+}
+
+/* Особенности */
+
+.features {
+  opacity: 0;
+}
+
+.features-titel-a {
+  position: absolute;
+  width: 270px;
+  height: 16px;
+  left: 215px;
+  top: 774px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
+  color: #212121;
+}
+
+.paragraph-a {
+  position: absolute;
+  width: 270px;
+  height: 72px;
+  left: 215px;
+  top: 800px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+.features-titel-b {
+  position: absolute;
+  width: 270px;
+  height: 16px;
+  left: 515px;
+  top: 774px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
+  color: #212121;
+}
+
+.paragraph-b {
+  position: absolute;
+  width: 270px;
+  height: 48px;
+  left: 515px;
+  top: 800px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+.features-titel-c {
+  position: absolute;
+  width: 270px;
+  height: 16px;
+  left: 815px;
+  top: 774px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
+  color: #212121;
+}
+
+.paragraph-c {
+  position: absolute;
+  width: 270px;
+  height: 48px;
+  left: 815px;
+  top: 800px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+.features-titel-e {
+  position: absolute;
+  width: 270px;
+  height: 16px;
+  left: 1115px;
+  top: 774px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
+  color: #212121;
+}
+
+.paragraph-d {
+  position: absolute;
+  width: 270px;
+  height: 72px;
+  left: 1115px;
+  top: 800px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+/* Чим ми займаємося*/
+.work-titel {
+  position: absolute;
+  width: 366px;
+  height: 42px;
+  left: 617px;
+  top: 966px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #212121;
+}
+
+.work .a {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 215px;
+  top: 1058px;
+
+  background: url(close-up-image-programer-working-his-desk-office_1098-18707.jpg);
+  mix-blend-mode: normal;
+}
+
+.work .b {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 615px;
+  top: 1058px;
+
+  background: url(web-ui-designers-are-developing-application-smartphones-team-creators-is-working-interface-mobile-phones_8119-2713.jpg);
+}
+
+.work .c {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 1015px;
+  top: 1058px;
+
+  background: url(creative-artist-web-design-with-working-colour-selection-graphic-tablet_35674-1119.jpg);
+}
+
+/* Наша команда */
+
+/* Ігор Дем'яненко */
+
+.section-title {
+  position: absolute;
+  width: 264px;
+  height: 42px;
+  left: 668px;
+  top: 1540px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #212121;
+}
+
+.product-designer .a {
+  position: absolute;
+  width: 270px;
+  height: 260px;
+  left: 215px;
+  top: 1632px;
+
+  background: url(4853.jpg);
+  border-radius: 0px;
+}
+
+.product-designer .b {
+  position: absolute;
+  width: 129px;
+  height: 19px;
+  left: 286px;
+  top: 1922px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #212121;
+}
+
+.product-designer .c {
+  position: absolute;
+  width: 130px;
+  height: 19px;
+  left: 285px;
+  top: 1951px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+/* Ольга Рєпіна */
+
+.frontend-developer .a {
+  position: absolute;
+  width: 270px;
+  height: 260px;
+  left: 515px;
+  top: 1632px;
+
+  background: url(5844.jpg);
+  border-radius: 0px;
+}
+
+.frontend-developer .b {
+  position: absolute;
+  width: 104px;
+  height: 19px;
+  left: 598px;
+  top: 1922px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #212121;
+}
+
+.frontend-developer .c {
+  position: absolute;
+  width: 147px;
+  height: 19px;
+  left: 577px;
+  top: 1951px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+/* Микола Тарасов */
+
+.marketing .a {
+  position: absolute;
+  width: 270px;
+  height: 260px;
+  left: 815px;
+  top: 1632px;
+
+  background: url(16166.jpg);
+  border-radius: 0px;
+}
+
+.marketing .b {
+  position: absolute;
+  width: 130px;
+  height: 19px;
+  left: 885px;
+  top: 1922px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #212121;
+}
+
+.marketing .c {
+  position: absolute;
+  width: 76px;
+  height: 19px;
+  left: 912px;
+  top: 1951px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+/* Михайло Єрмаков */
+
+.ui-designer .a {
+  position: absolute;
+  width: 270px;
+  height: 260px;
+  left: 1115px;
+  top: 1632px;
+
+  background: url(2968.jpg);
+  border-radius: 0px;
+}
+
+.ui-designer .b {
+  position: absolute;
+  width: 145px;
+  height: 19px;
+  left: 1178px;
+  top: 1922px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #212121;
+}
+
+.ui-designer .c {
+  position: absolute;
+  width: 87px;
+  height: 19px;
+  left: 1207px;
+  top: 1951px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+/* footer */
+
+.logo-footer {
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 2154px;
+
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  /* identical to box height */
+  letter-spacing: 0.03em;
+
+  color: #2196f3;
+}
+
+.footer .a {
+  position: absolute;
+  width: 231px;
+  height: 21px;
+  left: 215px;
+  top: 2205px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+}
+
+.footer .b {
+  position: absolute;
+  width: 231px;
+  height: 21px;
+  left: 215px;
+  top: 2235px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.footer .c {
+  position: absolute;
+  width: 231px;
+  height: 21px;
+  left: 215px;
+  top: 2265px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  /* or 171% */
+  letter-spacing: 0.03em;
+
+  color: rgba(255, 255, 255, 0.6);
+}
+
+/* Портфолио */
+
+/* фильтр */
+
+.filtr .filtr-buttona {
+  color: #212121;
+  position: absolute;
+  width: 73px;
+  height: 38px;
+  left: 512px;
+  top: 174px;
+
+  background: #f5f4fa;
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+}
+
+.filtr .filtr-buttona:hover {
+  color: #ffffff;
+  position: absolute;
+  width: 73px;
+  height: 38px;
+  left: 512px;
+  top: 174px;
+
+  background: #2196f3;
+  /* shadow-middle */
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+}
+
+.filtr .filtr-buttonb {
+  color: #212121;
+  position: absolute;
+  width: 125px;
+  height: 38px;
+  left: 593px;
+  top: 174px;
+
+  background: #f5f4fa;
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+}
+
+.filtr .filtr-buttonb:hover {
+  color: #ffffff;
+  position: absolute;
+  width: 125px;
+  height: 38px;
+  left: 593px;
+  top: 174px;
+
+  background: #2196f3;
+  border-radius: 4px;
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
+}
+
+.filtr .filtr-buttonc {
+  color: #212121;
+  position: absolute;
+  position: absolute;
+  width: 112px;
+  height: 38px;
+  left: 726px;
+  top: 174px;
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
+
+  background: #f5f4fa;
+  border-radius: 4px;
+}
+
+.filtr .filtr-buttonc:hover {
+  color: #ffffff;
+  position: absolute;
+  position: absolute;
+  width: 112px;
+  height: 38px;
+  left: 726px;
+  top: 174px;
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
+
+  background: #2196f3;
+  border-radius: 4px;
+}
+
+.filtr .filtr-buttond {
+  color: #212121;
+  position: absolute;
+  width: 103px;
+  height: 38px;
+  left: 846px;
+  top: 174px;
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
+
+  background: #f5f4fa;
+  border-radius: 4px;
+}
+
+.filtr .filtr-buttond:hover {
+  color: #ffffff;
+  position: absolute;
+  width: 103px;
+  height: 38px;
+  left: 846px;
+  top: 174px;
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
+
+  background: #2196f3;
+  border-radius: 4px;
+}
+
+.filtr .filtr-buttone {
+  position: absolute;
+  width: 130px;
+  height: 38px;
+  left: 957px;
+  top: 174px;
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
+
+  background: #f5f4fa;
+  border-radius: 4px;
+}
+
+.filtr .filtr-buttone:hover {
+  color: #ffffff;
+  position: absolute;
+  width: 130px;
+  height: 38px;
+  left: 957px;
+  top: 174px;
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
+
+  background: #2196f3;
+  border-radius: 4px;
+}
+
+/* основная страница */
+
+.examples-img-a {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 215px;
+  top: 262px;
+
+  background: url(portfolio1.jpg);
+}
+
+.head-a {
+  position: absolute;
+  width: 322px;
+  height: 36px;
+  left: 239px;
+  top: 576px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  /* identical to box height, or 200% */
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
+
+.view-a {
+  position: absolute;
+  width: 322px;
+  height: 30px;
+  left: 239px;
+  top: 616px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height, or 188% */
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+
+.examples-img-b {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 615px;
+  top: 262px;
+
+  background: url(portfolio2.jpg);
+}
+
+.head-b {
+  position: absolute;
+  width: 322px;
+  height: 36px;
+  left: 639px;
+  top: 576px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  /* identical to box height, or 200% */
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
+.view-b {
+  position: absolute;
+  width: 322px;
+  height: 30px;
+  left: 639px;
+  top: 616px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height, or 188% */
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+.examples-img-c {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 1015px;
+  top: 262px;
+
+  background: url(portfolio-1.jpg);
+}
+
+.head-c {
+  position: absolute;
+  width: 322px;
+  height: 36px;
+  left: 1039px;
+  top: 576px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  /* identical to box height, or 200% */
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
+
+.view-c {
+  position: absolute;
+  width: 322px;
+  height: 30px;
+  left: 1039px;
+  top: 616px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+.examples-img-d {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 215px;
+  top: 696px;
+
+  background: url(portfolio-2.jpg);
+}
+
+.head-d {
+  position: absolute;
+  width: 322px;
+  height: 36px;
+  left: 239px;
+  top: 1010px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+
+.view-d {
+  position: absolute;
+  width: 322px;
+  height: 30px;
+  left: 239px;
+  top: 1050px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+.examples-img-e {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 615px;
+  top: 696px;
+
+  background: url(portfolio5.jpg);
+}
+
+.head-e {
+  position: absolute;
+  width: 322px;
+  height: 36px;
+  left: 639px;
+  top: 1010px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  /* identical to box height, or 200% */
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
+
+.view-e {
+  position: absolute;
+  width: 322px;
+  height: 30px;
+  left: 639px;
+  top: 1050px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+.examples-img-f {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 1015px;
+  top: 696px;
+
+  background: url(111.jpg);
+}
+
+.head-f {
+  position: absolute;
+  width: 322px;
+  height: 36px;
+  left: 1039px;
+  top: 1010px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  /* identical to box height, or 200% */
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
+
+.view-f {
+  position: absolute;
+  width: 322px;
+  height: 30px;
+  left: 1039px;
+  top: 1050px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height, or 188% */
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+.examples-img-g {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 215px;
+  top: 1130px;
+
+  background: url(portfolio7.jpg);
+}
+
+.head-g {
+  position: absolute;
+  width: 322px;
+  height: 36px;
+  left: 239px;
+  top: 1444px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  /* identical to box height, or 200% */
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
+.viev-g {
+  position: absolute;
+  width: 322px;
+  height: 30px;
+  left: 239px;
+  top: 1484px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height, or 188% */
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+.examples-img-h {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 615px;
+  top: 1130px;
+
+  background: url(portfolio8.jpg);
+}
+
+.head-h {
+  position: absolute;
+  width: 322px;
+  height: 36px;
+  left: 639px;
+  top: 1444px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  /* identical to box height, or 200% */
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
+.view-h {
+  position: absolute;
+  width: 322px;
+  height: 30px;
+  left: 639px;
+  top: 1484px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height, or 188% */
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
+.examples-img-i {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 1015px;
+  top: 1130px;
+
+  background: url(2910404.jpg);
+}
+
+.head-i {
+  position: absolute;
+  width: 322px;
+  height: 36px;
+  left: 1039px;
+  top: 1444px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  /* identical to box height, or 200% */
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
+
+.view-i {
+  position: absolute;
+  width: 322px;
+  height: 30px;
+  left: 1039px;
+  top: 1484px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height, or 188% */
+  letter-spacing: 0.03em;
+
+  color: #757575;
+}
