@@ -1144,7 +1144,7 @@
 
   color: #212121;
 }
-.viev-g {
+.view-g {
   position: absolute;
   width: 322px;
   height: 30px;
@@ -1156,6 +1156,7 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
+  /* identical to box height, or 188% */
   letter-spacing: 0.03em;
 
   color: #757575;
@@ -1182,6 +1183,7 @@
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
+  /* identical to box height, or 200% */
   letter-spacing: 0.06em;
 
   color: #212121;
@@ -1198,6 +1200,7 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
+  /* identical to box height, or 188% */
   letter-spacing: 0.03em;
 
   color: #757575;
@@ -1224,6 +1227,7 @@
   font-weight: 700;
   font-size: 18px;
   line-height: 36px;
+  /* identical to box height, or 200% */
   letter-spacing: 0.06em;
 
   color: #212121;
@@ -1241,6 +1245,7 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
+  /* identical to box height, or 188% */
   letter-spacing: 0.03em;
 
   color: #757575;
