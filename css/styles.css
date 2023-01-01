@@ -1,3 +1,7 @@
+.font-family {
+    font-family: roboto;
+    color: #212121;
+}
 /* навигация */
 .header {
   position: absolute;
@@ -23,7 +27,27 @@
   line-height: 31px;
   letter-spacing: 0.03em;
 }
+.logo {
+    color: #2196f3
+}
+.logo span{
+    color: #000000;
+}
+.logo .span {
 
+    position: absolute;
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 24px;
+  
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+}
 .site-nav .linka {
   color: #212121;
   position: absolute;
@@ -643,43 +667,48 @@
   color: #757575;
 }
 
-/* footer */
+/* footer */ 
 
-.logo-footer {
-  position: absolute;
-  width: 145px;
-  height: 31px;
-  left: 215px;
-  top: 2154px;
-
-  font-family: "Raleway";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 26px;
-  line-height: 31px;
-  letter-spacing: 0.03em;
-
-  color: #2196f3;
+ 
+.footer .background .logo-footer {
+    position: absolute;
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 2154px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+    
+    color: #2196F3;
+  
 }
 
-.footer .a {
-  position: absolute;
-  width: 231px;
-  height: 21px;
-  left: 215px;
-  top: 2205px;
 
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 24px;
-  letter-spacing: 0.03em;
-
-  color: #ffffff;
+.map {
+    position: absolute;
+    width: 231px;
+    height: 21px;
+    left: 215px;
+    top: 2205px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+    letter-spacing: 0.03em;
+    
+    color: #212121;
 }
 
-.footer .b {
+.footer .mail {
   position: absolute;
   width: 231px;
   height: 21px;
@@ -693,10 +722,10 @@
   line-height: 24px;
   letter-spacing: 0.03em;
 
-  color: rgba(255, 255, 255, 0.6);
+  color: #212121;
 }
 
-.footer .c {
+.footer .tel {
   position: absolute;
   width: 231px;
   height: 21px;
@@ -710,7 +739,7 @@
   line-height: 24px;
   letter-spacing: 0.03em;
 
-  color: rgba(255, 255, 255, 0.6);
+  color: #212121;
 }
 
 /* Портфолио */
