@@ -1,7 +1,15 @@
-.font-family {
-    font-family: roboto;
-    color: #212121;
+li {
+  list-style-type: none;
 }
+a {
+  text-decoration: none;
+}
+
+.font-family {
+  font-family: roboto;
+  color: #212121;
+}
+
 /* навигация */
 .header {
   position: absolute;
@@ -20,7 +28,7 @@
   left: 215px;
   top: 24px;
 
-  font-family: "Raleway";
+  font-family: "raleway";
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
@@ -28,27 +36,26 @@
   letter-spacing: 0.03em;
 }
 .logo {
-    color: #2196f3
+  color: #2196f3;
 }
-.logo span{
-    color: #000000;
+.logo span {
+  color: #000000;
 }
 .logo .span {
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
 
-    position: absolute;
-    width: 145px;
-    height: 31px;
-    left: 215px;
-    top: 24px;
-  
-    font-family: "Raleway";
-    font-style: normal;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 31px;
-    letter-spacing: 0.03em;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
 }
-.site-nav .linka {
+.site-nav .link-a {
   color: #212121;
   position: absolute;
   width: 45px;
@@ -64,8 +71,8 @@
   letter-spacing: 0.02em;
 }
 
-.site-nav .linka:hover,
-.site-nav .linka:focus {
+.site-nav .link-a:hover,
+.site-nav .link-a:focus {
   color: #2196f3;
   position: absolute;
   width: 45px;
@@ -81,7 +88,7 @@
   letter-spacing: 0.02em;
 }
 
-.site-nav .linkb {
+.site-nav .link-b {
   color: #212121;
   position: absolute;
   width: 72px;
@@ -97,8 +104,8 @@
   letter-spacing: 0.02em;
 }
 
-.site-nav .linkb:hover,
-.site-nav .linkb:focus {
+.site-nav .link-b:hover,
+.site-nav .link-b:focus {
   color: #2196f3;
   position: absolute;
   width: 72px;
@@ -114,7 +121,7 @@
   letter-spacing: 0.02em;
 }
 
-.site-nav .linkc {
+.site-nav .link-c {
   color: #212121;
   position: absolute;
   width: 64px;
@@ -130,8 +137,8 @@
   letter-spacing: 0.02em;
 }
 
-.site-nav .linkc:hover,
-.site-nav .linkc:focus {
+.site-nav .link-c:hover,
+.site-nav .link-c:focus {
   color: #2196f3;
   position: absolute;
   width: 64px;
@@ -148,7 +155,7 @@
 }
 /* авторизация */
 
-.auth-nav .linkd {
+.auth-nav .link-d {
   color: #757575;
   position: absolute;
   width: 135px;
@@ -164,8 +171,8 @@
   letter-spacing: 0.02em;
 }
 
-.auth-nav .linkd:hover,
-.auth-nav .linkd:focus {
+.auth-nav .link-d:hover,
+.auth-nav .link-d:focus {
   color: #2196f3;
   position: absolute;
   width: 135px;
@@ -181,7 +188,7 @@
   letter-spacing: 0.02em;
 }
 
-.auth-nav .linke {
+.auth-nav .link-e {
   color: #757575;
   position: absolute;
   width: 122px;
@@ -197,8 +204,8 @@
   letter-spacing: 0.02em;
 }
 
-.auth-nav .linke:hover,
-.auth-nav .linke:focus {
+.auth-nav .link-e:hover,
+.auth-nav .link-e:focus {
   color: #2196f3;
   position: absolute;
   width: 122px;
@@ -423,7 +430,7 @@
   color: #212121;
 }
 
-.work .a {
+.work .work-a {
   position: absolute;
   width: 370px;
   height: 294px;
@@ -434,7 +441,7 @@
   mix-blend-mode: normal;
 }
 
-.work .b {
+.work .work-b {
   position: absolute;
   width: 370px;
   height: 294px;
@@ -444,7 +451,7 @@
   background: url(web-ui-designers-are-developing-application-smartphones-team-creators-is-working-interface-mobile-phones_8119-2713.jpg);
 }
 
-.work .c {
+.work .work-c {
   position: absolute;
   width: 370px;
   height: 294px;
@@ -456,24 +463,26 @@
 
 /* Наша команда */
 
-/* Ігор Дем'яненко */
+
 
 .section-title {
-    position: absolute;
-    width: 300px;
-    height: 42px;
-    left: 668px;
-    top: 1540px;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 42px;
-    text-align: center;
-    letter-spacing: 0.03em;
-    color: #212121;}
+  position: absolute;
+  width: 300px;
+  height: 42px;
+  left: 668px;
+  top: 1540px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+/* Ігор Дем'яненко */
 
-.product-designer .a {
+.product-designer .photo {
   position: absolute;
   width: 270px;
   height: 260px;
@@ -484,7 +493,7 @@
   border-radius: 0px;
 }
 
-.product-designer .b {
+.product-designer .name {
   position: absolute;
   width: 150px;
   height: 19px;
@@ -502,7 +511,7 @@
   color: #212121;
 }
 
-.product-designer .c {
+.product-designer .job {
   position: absolute;
   width: 150px;
   height: 19px;
@@ -522,7 +531,7 @@
 
 /* Ольга Рєпіна */
 
-.frontend-developer .a {
+.frontend-developer .photo {
   position: absolute;
   width: 270px;
   height: 260px;
@@ -533,7 +542,7 @@
   border-radius: 0px;
 }
 
-.frontend-developer .b {
+.frontend-developer .name {
   position: absolute;
   width: 104px;
   height: 19px;
@@ -551,7 +560,7 @@
   color: #212121;
 }
 
-.frontend-developer .c {
+.frontend-developer .job {
   position: absolute;
   width: 147px;
   height: 19px;
@@ -571,7 +580,7 @@
 
 /* Микола Тарасов */
 
-.marketing .a {
+.marketing .photo {
   position: absolute;
   width: 270px;
   height: 260px;
@@ -582,7 +591,7 @@
   border-radius: 0px;
 }
 
-.marketing .b {
+.marketing .name {
   position: absolute;
   width: 133px;
   height: 19px;
@@ -600,7 +609,7 @@
   color: #212121;
 }
 
-.marketing .c {
+.marketing .job {
   position: absolute;
   width: 76px;
   height: 19px;
@@ -620,7 +629,7 @@
 
 /* Михайло Єрмаков */
 
-.ui-designer .a {
+.ui-designer .photo {
   position: absolute;
   width: 270px;
   height: 260px;
@@ -631,7 +640,7 @@
   border-radius: 0px;
 }
 
-.ui-designer .b {
+.ui-designer .name {
   position: absolute;
   width: 150px;
   height: 19px;
@@ -649,7 +658,7 @@
   color: #212121;
 }
 
-.ui-designer .c {
+.ui-designer .job {
   position: absolute;
   width: 87px;
   height: 19px;
@@ -667,45 +676,42 @@
   color: #757575;
 }
 
-/* footer */ 
+/* footer */
 
- 
 .footer .background .logo-footer {
-    position: absolute;
-    width: 145px;
-    height: 31px;
-    left: 215px;
-    top: 2154px;
-    
-    font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 31px;
-    /* identical to box height */
-    letter-spacing: 0.03em;
-    
-    color: #2196F3;
-  
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 2154px;
+
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  /* identical to box height */
+  letter-spacing: 0.03em;
+
+  color: #2196f3;
 }
 
-
 .map {
-    position: absolute;
-    width: 231px;
-    height: 21px;
-    left: 215px;
-    top: 2205px;
-    
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 24px;
-    /* or 171% */
-    letter-spacing: 0.03em;
-    
-    color: #212121;
+  position: absolute;
+  width: 231px;
+  height: 21px;
+  left: 215px;
+  top: 2205px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  /* or 171% */
+  letter-spacing: 0.03em;
+
+  color: #212121;
 }
 
 .footer .mail {
@@ -746,7 +752,7 @@
 
 /* фильтр */
 
-.filtr .filtr-buttona {
+.filtr .filtr-button-a {
   color: #212121;
   position: absolute;
   width: 73px;
@@ -760,7 +766,7 @@
   border-radius: 4px;
 }
 
-.filtr .filtr-buttona:hover {
+.filtr .filtr-button-a:hover {
   color: #ffffff;
   position: absolute;
   width: 73px;
@@ -775,7 +781,7 @@
   border-radius: 4px;
 }
 
-.filtr .filtr-buttonb {
+.filtr .filtr-button-b {
   color: #212121;
   position: absolute;
   width: 125px;
@@ -789,7 +795,7 @@
   border-radius: 4px;
 }
 
-.filtr .filtr-buttonb:hover {
+.filtr .filtr-button-b:hover {
   color: #ffffff;
   position: absolute;
   width: 125px;
@@ -803,7 +809,7 @@
     0px 2px 2px rgba(0, 0, 0, 0.12);
 }
 
-.filtr .filtr-buttonc {
+.filtr .filtr-button-c {
   color: #212121;
   position: absolute;
   position: absolute;
@@ -818,7 +824,7 @@
   border-radius: 4px;
 }
 
-.filtr .filtr-buttonc:hover {
+.filtr .filtr-button-c:hover {
   color: #ffffff;
   position: absolute;
   position: absolute;
@@ -833,7 +839,7 @@
   border-radius: 4px;
 }
 
-.filtr .filtr-buttond {
+.filtr .filtr-button-d {
   color: #212121;
   position: absolute;
   width: 103px;
@@ -847,7 +853,7 @@
   border-radius: 4px;
 }
 
-.filtr .filtr-buttond:hover {
+.filtr .filtr-button-d:hover {
   color: #ffffff;
   position: absolute;
   width: 103px;
@@ -861,7 +867,7 @@
   border-radius: 4px;
 }
 
-.filtr .filtr-buttone {
+.filtr .filtr-button-e {
   position: absolute;
   width: 130px;
   height: 38px;
@@ -874,7 +880,7 @@
   border-radius: 4px;
 }
 
-.filtr .filtr-buttone:hover {
+.filtr .filtr-button-e:hover {
   color: #ffffff;
   position: absolute;
   width: 130px;
