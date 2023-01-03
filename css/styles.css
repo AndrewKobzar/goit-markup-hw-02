@@ -32,7 +32,6 @@ a {
   top: 24px;
 
   font-family: "raleway";
-  font-style: normal;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -51,7 +50,6 @@ a {
   top: 24px;
 
   font-family: "Raleway";
-  font-style: normal;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -64,7 +62,6 @@ a {
   left: 453px;
   top: 32px;
 
-  font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -116,7 +113,6 @@ a {
   left: 670px;
   top: 32px;
 
-  font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -252,8 +248,6 @@ a {
   height: 72px;
   left: 215px;
   top: 800px;
-  font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -280,7 +274,6 @@ a {
   height: 48px;
   left: 515px;
   top: 800px;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -307,8 +300,6 @@ a {
   height: 48px;
   left: 815px;
   top: 800px;
-  font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -335,7 +326,6 @@ a {
   height: 72px;
   left: 1115px;
   top: 800px;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -557,7 +547,6 @@ a {
   height: 19px;
   left: 1207px;
   top: 1951px;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.18;
   text-align: center;
@@ -594,7 +583,6 @@ a {
   height: 21px;
   left: 215px;
   top: 2205px;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
   letter-spacing: 0.03em;
@@ -607,7 +595,6 @@ a {
   height: 21px;
   left: 215px;
   top: 2235px;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
   letter-spacing: 0.03em;
@@ -620,7 +607,6 @@ a {
   height: 21px;
   left: 215px;
   top: 2265px;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
   letter-spacing: 0.03em;
@@ -1051,7 +1037,6 @@ button {
   height: 30px;
   left: 1039px;
   top: 1484px;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.87;
   letter-spacing: 0.03em;
