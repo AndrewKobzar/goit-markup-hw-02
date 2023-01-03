@@ -8,6 +8,10 @@ a {
 .font-family {
   font-family: roboto;
   color: #212121;
+  max-width: 1200;
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
 /* навигация */
